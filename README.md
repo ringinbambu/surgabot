@@ -14,7 +14,9 @@
 
 ## 👩‍💻 Tentang Saya
 
-Saya trader yang trading di MT4 sejak tahun 2010 dan mulai fokus trading di MT5 di tahun 2026. Pernah trading menggunakan broker **InstaForex, Euromax, Primus, FBS, Exness, Tickmill, XM, RoboForex, FxPro, Monex dll** 
+Saya <a href="https://www.mql5.com/en/users/getbos"> **Pengepul**</a> yang trading di MT4 sejak tahun 2010 dan mulai fokus trading di MT5 di tahun 2026. Pernah trading menggunakan broker **InstaForex, Euromax, Primus, FBS, Exness, Tickmill, XM, RoboForex, FxPro, Monex dll** 
+
+<img width="1080" height="4" alt="br-animated-line" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
 - 🎨 Tahun 2026 bersama tim saldo $60an jadi $1400an
 - 🐍 21 September 2026 mulai lagi dari saldo $5 
@@ -143,7 +145,7 @@ I'm always open to conversations about:
 Feel free to reach out — whether it's about a project, an opportunity, or just to talk tech.
 
 [![GitHub](https://img.shields.io/badge/-Follow_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/surgabot)
-[![Email](https://img.shields.io/badge/-Send_an_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ringinbambugmail.com)
+[![Email](https://img.shields.io/badge/-Send_an_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ringinbambu@gmail.com)
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
